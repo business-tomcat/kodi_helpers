@@ -2,7 +2,7 @@
 
 A keymap for use with **Iconbit G-Control** / **Mele F10** remote control
 
-![](https://www.photo-online-bh.com/eBay/Product/MELE%20F10%2005.jpg =400x)
+<img src="https://www.photo-online-bh.com/eBay/Product/MELE%20F10%2005.jpg" width="400" title="Mele F10">
 
 Inspired by http://www.olivergast.de/blog/2014/03/09/xbmc-mele-f10-flyair-mouse-fuer-raspbmc-konfigurieren/  
 Includes Bugfix for https://trac.kodi.tv/ticket/15670
